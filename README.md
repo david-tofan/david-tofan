@@ -11,7 +11,7 @@ real-world clients while upholding high academic standards.
 - **Languages**: French 🇫🇷 | English 🇬🇧 | German 🇩🇪 
 
 ## Projects
-coursework & engineering projects 
+coursework & engineering projects<br>
 [![Academic Projects](https://img.shields.io/badge/Academic_Projects-ENSIACET-blue?logo=github)](https://github.com/david-tofan/academic-projects)
 
 ## Currently
