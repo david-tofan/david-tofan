@@ -1,7 +1,7 @@
+ ## About Me
 Engineering student at **ENSIACET** (Toulouse, France)  
-Specializing in **Process Engineering**  
+Specializing in **Process Engineering** 
 
-## About Me
 Head of IT department for FA7 Junior-Etudes, the ENSIACET Junior-Enterprise delivering engineering consulting services to 
 real-world clients while upholding high academic standards.
 
@@ -13,8 +13,6 @@ real-world clients while upholding high academic standards.
 ## Projects
 coursework & engineering projects<br>
 [![Academic Projects](https://img.shields.io/badge/Academic_Projects-ENSIACET-blue?logo=github)](https://github.com/david-tofan/academic-projects)
-
-## Currently
 Building TAS for MKDS
 
 ## Connect
