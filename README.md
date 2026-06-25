@@ -1,6 +1,6 @@
  ## About Me
-Engineering student at **ENSIACET** (Toulouse, France)  
-Specializing in **Process Engineering** 
+Engineering student at **INP-ENSIACET**.
+Specializing in **Process and Chemical Engineering**.
 
 Head of IT department for FA7 Junior-Etudes, the ENSIACET Junior-Enterprise delivering engineering consulting services to 
 real-world clients while upholding high academic standards.
