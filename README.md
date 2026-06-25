@@ -12,7 +12,7 @@ real-world clients while upholding high academic standards.
 
 coursework & engineering projects<br>
 [![Academic Projects](https://img.shields.io/badge/Academic_Projects-ENSIACET-blue?logo=github)](https://github.com/david-tofan/academic-projects)<br>
-Building TAS for MKDS
+Building TAS for MKDS, 100% HGSS
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://linkedin.com/in/david-tofan)
 [![GitHub](https://img.shields.io/badge/GitHub-black?logo=github)](https://github.com/david-tofan)
